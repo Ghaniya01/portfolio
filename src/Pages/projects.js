@@ -36,7 +36,8 @@ export const Project = () => {
   ];
 
   return (
-    <section className="bg-gradient-to-b from-herobg2 to-herobg1 min-h-screen py-2 px-4 md:py-8 lg:py-8 xl:py-2">
+   <section className="bg-gradient-to-b from-herobg2 to-herobg1 min-h-screen py-6 px-4 md:py-12 lg:py-16 xl:py-20">
+
 
       
       {/* Title Section */}

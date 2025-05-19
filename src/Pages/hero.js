@@ -1,6 +1,6 @@
 export const Hero = () => {
   return (
-    <section className="bg-gradient-to-b from-herobg1 to-herobg2 min-h-screen flex flex-col items-start px-6 md:px-12 lg:px-36">
+   <section className="bg-gradient-to-b from-herobg1 to-herobg2 min-h-screen flex flex-col items-start px-6 py-6 md:px-12 lg:px-36 md:py-16">
       
       {/* Intro Text */}
       <p className="font-darker text-secondtext text-[20px] md:text-[25px] mt-28 md:mt-40 mb-4 md:mb-8">
