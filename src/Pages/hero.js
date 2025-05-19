@@ -8,7 +8,7 @@ export const Hero = () => {
       </p>
 
       {/* Main Heading */}
-      <h1 className="text-navy text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-loose w-full text-left font-darker break-words">
+      <h1 className="text-navy text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-tight w-full text-left font-darker break-words">
         a software developer passionate about solving problems with technology.
       </h1>
 
